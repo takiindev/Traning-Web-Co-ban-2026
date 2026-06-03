@@ -101,7 +101,7 @@
 • Buổi 6 Nhóm Quý - Vân.  
 • Buổi 7 Nhóm Khang - Hoàng.  
 • Buổi 8 Nhóm Vũ - Quý.  
-**Giai Đoạn 2: Từ Buổi 9 Đến Buổi 16 ( 1 Nhân sự không tham gia chính thức)**
+**Giai Đoạn 2: Từ Buổi 9 Đến Buổi 16 ( 1 Nhân sự không tham gia chính thức)** 
 • Buổi 9 Nhóm Khang - Hoàng.
 • Buổi 10 Nhóm Hoàng - Vũ.  
 • Buổi 11 Nhóm Quý - Khang.
