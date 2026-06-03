@@ -12,7 +12,7 @@
 
 - **Chuẩn bị giảng viên:**
     - Người đứng lớp chuẩn bị slide/tài liệu và nộp/đăng trong repo ít nhất **2 ngày trước** buổi dạy.
-    - Nhân sự đứng buổi chuẩn bị xem qua slide tối thiểu **2 ngày trước**.
+    - Tất cả nhân sự / hỗ trợ viên xem qua slide tối thiểu **1 ngày trước**.
 
 ## Mục lục nhanh các buổi
 
