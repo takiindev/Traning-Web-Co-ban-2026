@@ -1,4 +1,18 @@
 # Web Cơ Bản Hè 2026
+- ## Thông tin khóa học
+
+- **Ngày bắt đầu:** 08/06/2026
+- **Lịch học:** Thứ 2 & Thứ 6 hàng tuần
+- **Giờ bắt đầu:** 07:30
+- **Thời lượng mỗi buổi:** 150 phút
+- **Tổng:** 16 buổi
+
+- **Yêu cầu:**
+    - Laptop, sạc, tai nghe, micro (để tương tác tốt hơn)
+
+- **Chuẩn bị giảng viên:**
+    - Người đứng lớp chuẩn bị slide/tài liệu và nộp/đăng trong repo ít nhất **2 ngày trước** buổi dạy.
+    - Nhân sự đứng buổi chuẩn bị xem qua slide tối thiểu **2 ngày trước**.
 
 ## Mục lục nhanh các buổi
 
@@ -19,23 +33,6 @@
 - [Buổi 15: Async, fetch, CRUD](./buoi-15-async-fetch-crud.md)
 - [Buổi 16: State, localStorage, auth](./buoi-16-state-localstorage-auth.md)
 - [Nghiệm thu cuối khóa](./nghiem-thu-cuoi-khoa.md)
-
-**PHẦN 1: HTML5 - NỀN TẢNG CẤU TRÚC (Buổi 1 - 3)**
-
-- **Buổi 1: Cài đặt & Thẻ văn bản cơ bản**
-    - Cài đặt VS Code, các Extensions: Live Server, Auto Rename Tag, Prettier.
-    - Cấu trúc file HTML5 chuẩn (**`!DOCTYPE`**, **`html`**, **`head`**, **`body`**).
-    - Các thẻ tiêu đề (**`h1-h6`**), đoạn văn (**`p`**), định dạng văn bản (**`b`**, **`strong`**, **`i`**, **`em`**...).
-    - Thẻ liên kết (**`a`**) và Thẻ hình ảnh (**`img`**).
-    - **Tư duy quan trọng:** Giải thích tại sao phải bọc layout (wrapping) và ảnh hưởng của nó đến Flexbox / Grid sau này.
-- **Buổi 2: Danh sách, Bảng & Đa phương tiện**
-    - Danh sách: **`ul`**, **`ol`**, **`li`** và các kiểu đánh số.
-    - Bảng: **`table`**, **`thead`**, **`tbody`**, **`tr`**, **`th`**, **`td`** và thuộc tính **`colspan`**, **`rowspan`**.
-    - Nhúng Multimedia: **`video`**, **`audio`** (controls, autoplay, muted) và **`iframe`** để nhúng bản đồ/Youtube.
-- **Buổi 3: HTML5 Semantic & Form (Nâng cao)**
-    - Phân biệt thẻ **Block** và **Inline**.
-    - Thẻ ngữ nghĩa (Semantic HTML5): **`header`**, **`nav`**, **`main`**, **`footer`**, **`section`**, **`article`**, **`aside`**.
-    - Cấu trúc Form: **`form`**, **`label`**, **`input`** (text, email, password, date, radio, checkbox, file...), **`select/option`**, **`textarea`**.
 
 **PHẦN 2: CSS3 - GIAO DIỆN & BỐ CỤC (Buổi 4 - 9)**
 
