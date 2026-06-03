@@ -12,9 +12,9 @@
 
 ---
 
-# 2. BOX MODEL (45 PHÚT)
+# 2. BOX MODEL (60 PHÚT)
 
-## 2.1. Khái niệm (15 phút)
+## 2.1. Khái niệm (30 phút)
 
 - Content.
 - Padding.
@@ -37,6 +37,12 @@
 - Nhầm margin với padding.
 - Quên `box-sizing` nên kích thước bị đội lên.
 
+### Cách dạy cho newbie (thêm thời gian luyện)
+
+- Vẽ 1 khung theo thứ tự: `content -> padding -> border -> margin`.
+- So sánh trực tiếp 2 card: 1 card tăng `padding`, 1 card tăng `margin`.
+- Cho học viên tự đo kích thước trước/sau khi thêm `border` để thấy khác biệt.
+
 ## 2.2. `box-sizing: border-box` (10 phút)
 
 ### Mục tiêu
@@ -54,16 +60,16 @@
 
 ---
 
-# 3. ĐƠN VỊ ĐO LƯỜNG & TYPOGRAPHY (45 PHÚT)
+# 3. ĐƠN VỊ ĐO LƯỜNG & TYPOGRAPHY (30 PHÚT)
 
-## 3.1. Đơn vị cơ bản (15 phút)
+## 3.1. Đơn vị cơ bản (10 phút)
 
 - `px`
 - `%`
 - `rem`
 - `em`
 
-## 3.2. Typography (20 phút)
+## 3.2. Typography (15 phút)
 
 - `font-family`
 - `font-size`
@@ -84,7 +90,7 @@ body {
 
 - Chữ đẹp không phải là font lạ, mà là chữ dễ đọc và có nhịp điệu.
 
-## 3.3. Google Fonts (10 phút)
+## 3.3. Google Fonts (5 phút)
 
 - Cách nhúng font.
 - Khi nào nên dùng font web.

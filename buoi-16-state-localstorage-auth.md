@@ -76,7 +76,45 @@ const userId = localStorage.getItem('userId');
 
 ---
 
-# 5. TỔNG KẾT & TOP 5 (35 PHÚT)
+# 5. HƯỚNG DẪN NHANH QUẢN LÝ CODE & DEPLOY VỚI GIT/GITHUB (15 PHÚT)
+
+## Mục tiêu
+
+- Học viên nắm luồng nộp bài và quản lý version trước khi vào nghiệm thu.
+- Biết đẩy project lên GitHub và chia sẻ link chạy online cơ bản.
+
+## Nội dung
+
+- Khởi tạo Git trong project:
+
+```bash
+git init
+git add .
+git commit -m "init project"
+```
+
+- Tạo repository trên GitHub và đẩy code:
+
+```bash
+git branch -M main
+git remote add origin <repo-url>
+git push -u origin main
+```
+
+### Quy tắc tối thiểu trước nghiệm thu
+
+- Commit rõ nghĩa theo từng phần việc.
+- Có file `README.md` mô tả cách chạy dự án.
+- Chạy thử và xác nhận link repository truy cập được.
+
+## Gợi ý deploy nhanh
+
+- Frontend tĩnh: deploy bằng GitHub Pages hoặc Netlify.
+- Chia sẻ 2 link khi nghiệm thu: link GitHub + link deploy.
+
+---
+
+# 6. TỔNG KẾT & TOP 5 (20 PHÚT)
 
 ## Bài tập
 
@@ -95,3 +133,4 @@ const userId = localStorage.getItem('userId');
 - Hiểu state flow cơ bản.
 - Dùng được localStorage.
 - Biết làm luồng đăng nhập và chặn truy cập cơ bản.
+- Biết quy trình quản lý code bằng Git/GitHub và chuẩn bị deploy trước nghiệm thu.

@@ -69,7 +69,77 @@ const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 
 ---
 
-# 5. THỰC HÀNH & TOP 5 (35 PHÚT)
+# 5. SETUP SERVER MẪU VỚI JSON SERVER (25 PHÚT)
+
+## Mục tiêu
+
+- Biết cách dựng nhanh API giả để test form và auth flow.
+- Chuẩn bị môi trường từ đầu: Node.js -> npm -> json-server.
+
+## Quy trình setup
+
+### Bước 1: Cài Node.js
+
+- Tải và cài Node.js bản LTS tại trang chủ Node.js.
+- Kiểm tra sau cài đặt:
+
+```bash
+node -v
+npm -v
+```
+
+### Bước 2: Khởi tạo project
+
+```bash
+mkdir demo-json-server
+cd demo-json-server
+npm init -y
+```
+
+### Bước 3: Cài json-server
+
+```bash
+npm install json-server
+```
+
+### Bước 4: Tạo file dữ liệu mẫu
+
+- Tạo file `db.json`:
+
+```json
+{
+	"users": [
+		{ "id": 1, "email": "admin@gmail.com", "password": "123456" }
+	]
+}
+```
+
+### Bước 5: Thêm script chạy server
+
+- Trong `package.json` thêm:
+
+```json
+"scripts": {
+	"server": "json-server --watch db.json --port 3000"
+}
+```
+
+### Bước 6: Chạy thử API
+
+```bash
+npm run server
+```
+
+- Test nhanh endpoint: `http://localhost:3000/users`
+
+## Gợi ý dùng trong buổi học
+
+- Dùng endpoint `/users` để test validate form đăng ký/đăng nhập.
+- Cho học viên thực hành `GET/POST` trước khi sang buổi async/fetch nâng cao.
+
+---
+
+# 6. THỰC HÀNH & TOP 5 (10 PHÚT)
 
 ## Bài tập
 
@@ -87,3 +157,4 @@ const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 - Xử lý được dữ liệu form.
 - Validate realtime cơ bản.
 - Dùng được regex cho bài toán thực tế.
+- Tự setup được server mẫu bằng json-server để test form/API.
