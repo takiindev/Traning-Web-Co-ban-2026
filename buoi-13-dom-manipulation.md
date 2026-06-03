@@ -1,6 +1,6 @@
 # KẾ HOẠCH CHI TIẾT: BUỔI 13 - DOM MANIPULATION
 
-**Tổng thời gian: 150 phút**
+**Tổng thời gian: 90 phút**
 
 ---
 

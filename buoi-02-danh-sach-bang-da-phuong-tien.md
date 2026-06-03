@@ -1,6 +1,6 @@
 # KẾ HOẠCH CHI TIẾT: BUỔI 2 - DANH SÁCH, BẢNG & ĐA PHƯƠNG TIỆN
 
-**Tổng thời gian: 150 phút**
+**Tổng thời gian: 90 phút**
 
 ---
 

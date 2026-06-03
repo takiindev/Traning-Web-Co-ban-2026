@@ -1,6 +1,6 @@
 # KẾ HOẠCH CHI TIẾT: BUỔI 4 - SELECTOR CƠ BẢN, RELATIONAL SELECTORS & BACKGROUND
 
-**Tổng thời gian: 150 phút**
+**Tổng thời gian: 90 phút**
 
 ---
 

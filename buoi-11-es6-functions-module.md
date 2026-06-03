@@ -1,6 +1,6 @@
 # KẾ HOẠCH CHI TIẾT: BUỔI 11 - ES6, FUNCTIONS & MODULE
 
-**Tổng thời gian: 150 phút**
+**Tổng thời gian: 90 phút**
 
 ---
 

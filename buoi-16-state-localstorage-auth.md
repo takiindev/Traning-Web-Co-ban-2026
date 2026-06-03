@@ -1,6 +1,6 @@
 # KẾ HOẠCH CHI TIẾT: BUỔI 16 - STATE MANAGEMENT, LOCALSTORAGE & AUTH
 
-**Tổng thời gian: 150 phút**
+**Tổng thời gian: 90 phút**
 
 ---
 

@@ -1,6 +1,6 @@
 # KẾ HOẠCH CHI TIẾT: BUỔI 1 - CÀI ĐẶT & THẺ VĂN BẢN CƠ BẢN
 
-**Tổng thời gian: 150 phút**
+**Tổng thời gian: 90 phút**
 
 ---
 

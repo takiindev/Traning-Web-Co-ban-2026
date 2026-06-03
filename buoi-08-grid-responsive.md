@@ -1,6 +1,6 @@
 # KẾ HOẠCH CHI TIẾT: BUỔI 8 - CSS GRID & RESPONSIVE DESIGN
 
-**Tổng thời gian: 150 phút**
+**Tổng thời gian: 90 phút**
 
 ---
 

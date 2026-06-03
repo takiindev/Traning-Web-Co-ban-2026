@@ -1,6 +1,6 @@
 # KẾ HOẠCH CHI TIẾT: BUỔI 3 - BLOCK/INLINE, SEMANTIC HTML5 & FORM
 
-**Tổng thời gian: 150 phút**
+**Tổng thời gian: 90 phút**
 
 ---
 

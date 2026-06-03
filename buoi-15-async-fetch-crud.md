@@ -1,6 +1,6 @@
 # KẾ HOẠCH CHI TIẾT: BUỔI 15 - ASYNCHRONOUS JS & CRUD VỚI FAKE API
 
-**Tổng thời gian: 150 phút**
+**Tổng thời gian: 90 phút**
 
 ---
 

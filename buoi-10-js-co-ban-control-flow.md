@@ -1,6 +1,6 @@
 # KẾ HOẠCH CHI TIẾT: BUỔI 10 - JS CƠ BẢN & CẤU TRÚC ĐIỀU KHIỂN
 
-**Tổng thời gian: 150 phút**
+**Tổng thời gian: 90 phút**
 
 ---
 

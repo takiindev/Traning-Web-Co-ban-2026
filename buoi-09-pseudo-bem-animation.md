@@ -1,6 +1,6 @@
 # KẾ HOẠCH CHI TIẾT: BUỔI 9 - PSEUDO-CLASSES, PSEUDO-ELEMENTS, BEM & ANIMATION
 
-**Tổng thời gian: 150 phút**
+**Tổng thời gian: 90 phút**
 
 ---
 

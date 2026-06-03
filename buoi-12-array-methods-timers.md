@@ -1,6 +1,6 @@
 # KẾ HOẠCH CHI TIẾT: BUỔI 12 - ARRAY METHODS & HÀM ĐỊNH THỜI
 
-**Tổng thời gian: 150 phút**
+**Tổng thời gian: 90 phút**
 
 ---
 
