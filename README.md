@@ -3,7 +3,7 @@
 
 - **Ngày bắt đầu:** 08/06/2026
 - **Lịch học:** Thứ 2 & Thứ 6 hàng tuần
-- **Giờ bắt đầu:** 07:30
+- **Giờ bắt đầu:** 19:30
 - **Thời lượng mỗi buổi:** 150 phút
 - **Tổng:** 16 buổi
 
