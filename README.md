@@ -10,7 +10,7 @@
 - **Yêu cầu:**
     - Laptop, sạc, tai nghe, micro (để tương tác tốt hơn)
 
-- **Chuẩn bị giảng viên:**
+- **Chuẩn bị đứng lớp:**
     - Người đứng lớp chuẩn bị slide/tài liệu và nộp/đăng trong repo ít nhất **2 ngày trước** buổi dạy.
     - Tất cả nhân sự / hỗ trợ viên xem qua slide tối thiểu **1 ngày trước**.
 
